@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 const fs = require('fs');
 const util = require("util");
 
-const generatorMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 
 // TODO: Create an array of questions for user input
@@ -30,6 +30,10 @@ const questions = [
         name: "Usage" 
     }, {
         type: "input",
+        message: "Add a screenshot using |[alt text](assets/images/screenshot.png)",
+        name: "Screenshot"
+    }, {    
+        type: "input",
         message: "Who contributed to this project?",
         name: "Contributing"   
     }, {
@@ -51,13 +55,12 @@ const questions = [
     }, {
         type: "list",
         message: "Select license",
-        name: "License" 
-        choices: [
-            "MIT",
-            "GVL-GPL 3.0",
-            "APACHE 2.0",
+        name: "License", 
+        choices: [ "Unlicense", "MIT", "GVL-GPL 3.0", "APACHE 2.0",
 
         ]
+    },
+    
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
@@ -69,9 +72,9 @@ function writeToFile(fileName, data) {
             return console.log(err)
         } else {    
         }
-    })
+    } )
 
-}
+}; 
 
 // TODO: Create a function to initialize app
 function init() {

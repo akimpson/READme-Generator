@@ -10,7 +10,7 @@ function renderLicenseBadge(license) {
     if (license === 'MIT') {
         return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
     }
-    if (license === 'Berkeley Cource Distribution (BSD)') {
+    if (license === 'Berkeley Source Distribution (BSD)') {
         return "[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)"
     }    
     if (license === 'GNU General Public License (GPL)') {
