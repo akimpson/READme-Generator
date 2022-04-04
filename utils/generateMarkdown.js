@@ -40,6 +40,53 @@ function generateMarkdown(data) {
   - ${data.problem}
   - ${data.learn}
 
+  ## Table of Contents
+
+  - [License](#license)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Features](#features)
+  - [Credits](#contributors & credit)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [How to contribute](#how to contribute) 
+
+  ## License
+
+  - ${renderLicense(data.license)}
+
+  Refer to [https://choosealicense.com/](https://choosealicense.com/)
+
+  ## Installation
+  To install this application, please follow the steps below:
+  - ${data.install}
+
+  ## Usage
+
+  |[alt.text](assets/images/screenshot.png)
+
+  ## Features
+
+  - ${data.features}
+
+  ## Contributors & Credit
+
+  - ${data.contributors}
+  - ${data.thirdparty}
+
+  ## Tests
+
+  - ${data.test}
+
+  ## Questions
+
+  If you have any questions, open an issue or contact me directly at ${data.email}. More of my work can be found at [${data.github}]|(https://github.com/${data.github})
+
+  ## How To Contribute
+
+  - ${data.contribute}
+  The [Contributor Covenant](https://www.contributor-covenant.org/) is avaiable for review if you are interested in collaborating. 
+  
 `;
 }
 
