@@ -23,7 +23,6 @@ function renderLicenseBadge(license) {
         return "[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)"
     }
 }        
-
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {}
@@ -35,6 +34,12 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+
+  ## Description
+  - ${data.why}
+  - ${data.problem}
+  - ${data.learn}
+
 `;
 }
 
