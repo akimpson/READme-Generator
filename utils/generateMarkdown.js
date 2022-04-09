@@ -86,7 +86,7 @@ function generateMarkdown(data) {
 
   - ${data.contribute}
   The [Contributor Covenant](https://www.contributor-covenant.org/) is avaiable for review if you are interested in collaborating. 
-  
+
 `;
 }
 
