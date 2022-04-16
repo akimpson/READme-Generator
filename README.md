@@ -54,6 +54,6 @@
 
   ## Questions
 
-  If you have any questions, open an issue or contact me directly at aishakimpson@gmail.com. More of my work can be found at [undefined]|(https://github.com/undefined)
-You can view my GitHub at undefined.
+  If you have any questions, open an issue or contact me directly at aishakimpson@gmail.com. More of my work can be found at [GitHubPages].
+  You can view my GitHub at (https://github.com/akimpson?tab=repositories).
 
