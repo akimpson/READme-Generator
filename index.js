@@ -27,7 +27,7 @@ const questions = [
         name: "usage" 
     }, {
         type: "input",
-        message: "Add a screenshot using |[alt text](assets/images/screenshot.png)",
+        message: "Add a screenshot using |[alt text](./assets/images/screenshot.png)",
         name: "screenshot"
     }, {    
         type: "input",

@@ -7,7 +7,7 @@
 
   ## Screenshots
 
-  [alt.text] | ["./assets/images/READme-GeneratorScreenshot.png"]
+  [READmeScreenshot](./assets/images/READme-GeneratorScreenshot.png)
 
   ## Table of Contents
 
