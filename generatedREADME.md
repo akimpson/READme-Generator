@@ -7,7 +7,7 @@
 
   ## Screenshots
 
-  |[alt.text](./assets/images/screenshot.png)
+  [alt.text] | ["./assets/images/READme-GeneratorScreenshot.png"]
 
   ## Table of Contents
 
@@ -27,7 +27,7 @@
 
   - [Questions](#questions)
 
-  - [How to contribute](#howtocontribute) 
+  - [Contribute](#contribute) 
 
   ## License
 
