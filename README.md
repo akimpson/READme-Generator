@@ -27,7 +27,7 @@
 
   - [Questions](#questions)
 
-  - [How to contribute](#how to contribute) 
+  - [How to contribute](#howtocontribute) 
 
   ## License
 
