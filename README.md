@@ -21,7 +21,7 @@
 
   - [Usage](#usage)
 
-  - [Credits](#contributors & credit)
+  - [Credits](#contributors&credit)
 
   - [Tests](#tests)
 
