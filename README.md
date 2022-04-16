@@ -7,7 +7,7 @@
 
   ## Screenshots
 
-  |[alt.text]()
+  |[alt.text](./assets/images/screenshot.png)
 
   ## Table of Contents
 
