@@ -31,9 +31,9 @@ Install inquirer using npm
 
 - [Usage](#usage)
 
-- [Credits](#contributors & credit)
+- [Credits](#credits)
 
-- [Questions](#questions & contributions)
+- [Questions](#questions)
 
 ## License
 
@@ -51,7 +51,7 @@ To install this application, please follow the steps below:
 
 - After entering node index.js in the terminal the user is prompted with questions that will create a README file.
 
-## Contributors & Credit
+## Credits
 
 - Aisha Kimpson
 
