@@ -1,22 +1,58 @@
-# READme-Generator
+# README Generator
+
+![License](https://img.shields.io/badge/license-$%7Blicense%7D-yellow)
 
 ## Description
-- The app is run in the terminal command line to generate professional README files using node.js.
-- Sections are added for user input providing data based on each section title.
-- Generate a license badge and information from a list (Unlicense", "APACHE", "MIT", "BSO", "GNU-GPL", "MPL", "EPL).
 
-## Installation
-
-Install inquirer using npm
-
-```bash
-    npm install inquirer
-    cd READme-Generator
-```
-
-npm inquirer documentation
-https://www.npmjs.com/package/inquirer
+- This application allows developers to create a professional README.md file in a way that is clean, efficient, and easy to use.
 
 ## Demo
 
-https://drive.google.com/file/d/1-yLAX9lOlzz8rYEwu9m34bNukr6TyCAo/view 
+https://user-images.githubusercontent.com/98501990/174437546-4f07cf59-fc79-489d-a6fb-d578b2f450bd.mp4
+
+## Table of Contents
+
+- [License](#license)
+
+* [License](#license)
+
+  - [Installation](#installation)
+
+  - [Usage](#usage)
+
+  - [Credits](#contributors & credit)
+
+  - [Tests](#tests)
+
+  - [Questions](#questions)
+
+  - [How to contribute](#how to contribute)
+
+  ## License
+
+  - ![License](https://img.shields.io/badge/license-$%7Blicense%7D-yellow)
+
+  Refer to [https://choosealicense.com/](https://choosealicense.com/)
+
+  ## Installation
+
+  To install this application, please follow the steps below:
+
+  - node index.js is needed to run this app.
+
+  ## Usage
+
+  - After entering node index.js in the terminal the user is prompted with questions that will create a README file.
+
+  ## Contributors & Credit
+
+  - Aisha Kimpson
+
+  ## Tests
+
+  - undefined
+
+  ## Questions
+
+  If you have any questions, open an issue or contact me directly at aishakimpson@gmail.com. More of my work can be found at [undefined]|(https://github.com/undefined)
+  You can view my GitHub at undefined.

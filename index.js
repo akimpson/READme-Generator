@@ -1,13 +1,17 @@
-// TODO: Include packages needed for this application
+// Include packages needed for this application
+// Import inquirer from npm
 const inquirer = require("inquirer");
+// Import fs 'file system' from npm
 const fs = require('fs');
 const path = require('path');
 //const util = require("util");
 
+// Send data input by user to the README template
 const generateMarkdown = require('./utils/generateMarkdown');
 
 
-// TODO: Create an array of questions for user input
+// Create an array of questions for user input
+// User will answer the questions to generate the README file
 const questions = [
     {
         type: "input",
@@ -58,12 +62,12 @@ const questions = [
 ];
         
     
-// TODO: Create a function to write README file
+// Created a function to write README file
 function writeToFile(filename, data) {
     return  fs.writeFileSync(path.join(process.cwd(), filename), data); 
 }
 
-// TODO: Create a function to initialize app
+// Created a function to initialize the app
 function init() {
     inquirer.prompt(questions)
         .then(function(answers) {
