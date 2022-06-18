@@ -5,10 +5,23 @@
 ## Description
 
 - This application allows developers to create a professional README.md file in a way that is clean, efficient, and easy to use.
+- The command line in the terminal is used to generate a professional README file using Node.js.
+- Sections are added for user input providing data based on each section title.
+- Each user can add or skip a section to create a file based on their application.
+- A license badge and information is generated from a list of available choices (Unlicense", "APACHE", "MIT", "BSO", "GNU-GPL", "MPL", "EPL).
+
+## Installation
+
+Install inquirer using npm
+
+```bash
+    npm install inquirer
+    cd READme-Generator
+```
 
 ## Demo
 
-https://user-images.githubusercontent.com/98501990/174437546-4f07cf59-fc79-489d-a6fb-d578b2f450bd.mp4
+![README Generator Demo](https://user-images.githubusercontent.com/98501990/174437546-4f07cf59-fc79-489d-a6fb-d578b2f450bd.mp4)
 
 ## Table of Contents
 
