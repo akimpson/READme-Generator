@@ -21,7 +21,7 @@ Install inquirer using npm
 
 ## Demo
 
-![README Generator Demo](https://user-images.githubusercontent.com/98501990/174437546-4f07cf59-fc79-489d-a6fb-d578b2f450bd.mp4)
+[README Generator Demo](https://user-images.githubusercontent.com/98501990/174437546-4f07cf59-fc79-489d-a6fb-d578b2f450bd.mp4)
 
 ## Table of Contents
 
@@ -34,8 +34,6 @@ Install inquirer using npm
   - [Usage](#usage)
 
   - [Credits](#contributors & credit)
-
-  - [Tests](#tests)
 
   - [Questions](#questions)
 
@@ -61,11 +59,6 @@ Install inquirer using npm
 
   - Aisha Kimpson
 
-  ## Tests
-
-  - undefined
-
   ## Questions
 
-  If you have any questions, open an issue or contact me directly at aishakimpson@gmail.com. More of my work can be found at [undefined]|(https://github.com/undefined)
-  You can view my GitHub at undefined.
+  If you have any questions, open an issue or contact me directly at aishakimpson@gmail.com. <br> More of my work can be found at [GitHub]|(https://github.com/akimpson)
