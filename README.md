@@ -43,13 +43,15 @@ Refer to [https://choosealicense.com/](https://choosealicense.com/)
 
 ## Installation
 
-To install this application, please follow the steps below:
+To install this application, please follow the instructions below:
 
-- node index.js is needed to run this app.
+- Enter node index.js is in the terminal to run this application.
 
 ## Usage
 
-- After entering node index.js in the terminal the user is prompted with questions that will create a README file.
+- After entering node index.js in the terminal the user is prompted with questions.
+- Answer or skip a question when prompted based on your application.
+- Once completed, a README will be generated from your responses.
 
 ## Credits
 
