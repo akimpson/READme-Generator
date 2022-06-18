@@ -31,11 +31,9 @@ Install inquirer using npm
 
 - [Usage](#usage)
 
-- [Contributors&Credits](#contributors & credit)
+- [Credits](#contributors & credit)
 
-- [Questions](#questions)
-
-- [HowToContribute](#how to contribute)
+- [Questions](#questions & contributions)
 
 ## License
 
