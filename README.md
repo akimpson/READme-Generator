@@ -27,38 +27,36 @@ Install inquirer using npm
 
 - [License](#license)
 
-* [License](#license)
+- [Installation](#installation)
 
-  - [Installation](#installation)
+- [Usage](#usage)
 
-  - [Usage](#usage)
+- [Contributors&Credits](#contributors & credit)
 
-  - [Credits](#contributors & credit)
+- [Questions](#questions)
 
-  - [Questions](#questions)
+- [HowToContribute](#how to contribute)
 
-  - [How to contribute](#how to contribute)
+## License
 
-  ## License
+- ![License](https://img.shields.io/badge/license-$%7Blicense%7D-yellow)
 
-  - ![License](https://img.shields.io/badge/license-$%7Blicense%7D-yellow)
+Refer to [https://choosealicense.com/](https://choosealicense.com/)
 
-  Refer to [https://choosealicense.com/](https://choosealicense.com/)
+## Installation
 
-  ## Installation
+To install this application, please follow the steps below:
 
-  To install this application, please follow the steps below:
+- node index.js is needed to run this app.
 
-  - node index.js is needed to run this app.
+## Usage
 
-  ## Usage
+- After entering node index.js in the terminal the user is prompted with questions that will create a README file.
 
-  - After entering node index.js in the terminal the user is prompted with questions that will create a README file.
+## Contributors & Credit
 
-  ## Contributors & Credit
+- Aisha Kimpson
 
-  - Aisha Kimpson
+## Questions
 
-  ## Questions
-
-  If you have any questions, open an issue or contact me directly at aishakimpson@gmail.com. <br> More of my work can be found at [GitHub]|(https://github.com/akimpson)
+If you have any questions, open an issue or contact me directly at aishakimpson@gmail.com. <br> More of my work can be found at [GitHub]|(https://github.com/akimpson)
